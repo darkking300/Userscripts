@@ -9,6 +9,8 @@ Userscripts to improve my web surfing experience.
    - [Opera](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
 
 2. Browse specific userscripts in their own folders.
+3. Current available scripts:
+   - [YouTube Shorts Tracker]("../../raw/main/YouTube Shorts Tracker")
 
 ## License
 
