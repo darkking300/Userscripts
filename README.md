@@ -10,7 +10,7 @@ Userscripts to improve my web surfing experience.
 
 2. Browse specific userscripts in their own folders.
 3. Current available scripts:
-   - [YouTube Shorts Tracker]("../../raw/main/YouTube Shorts Tracker")
+   - [YouTube Shorts Tracker](../../raw/main/YouTube%20Shorts%20Tracker)
 
 ## License
 
